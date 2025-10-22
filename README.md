@@ -1,0 +1,2 @@
+# inform-tica
+programación 
